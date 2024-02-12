@@ -8,6 +8,7 @@
   "author": "Phyodorov S.V. <mail@phyodorov.ru>",
   "license": "ISC",
   "dependencies": {
+    "@types/yargs": "^17.0.32",
     "prettier": "^3.2.5",
     "yargs": "^17.7.2"
   }
