@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Проект для заметок в консоли",
   "main": "index.js",
-  "scripts": {  },
+  "scripts": {},
   "keywords": [],
   "author": "Phyodorov S.V. <mail@phyodorov.ru>",
   "license": "ISC",
   "dependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "yargs": "^17.7.2"
   }
 }

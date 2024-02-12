@@ -1,1 +1,1 @@
-console.log('Hello Sergey');
+const yargs = require('yargs');
