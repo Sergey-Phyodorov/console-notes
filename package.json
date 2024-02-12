@@ -1,13 +1,11 @@
 {
   "name": "console-notes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Проект для заметок в консоли",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {  },
   "keywords": [],
-  "author": "",
+  "author": "Phyodorov S.V. <mail@phyodorov.ru>",
   "license": "ISC",
   "dependencies": {
     "prettier": "^3.2.5"
