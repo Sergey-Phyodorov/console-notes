@@ -1,7 +1,6 @@
 const fs = require('fs/promises');
 const path = require('path');
 const chalk = require('chalk');
-// const chalk = require('chalk');
 
 const notesPath = path.join(__dirname, 'db.json');
 
@@ -15,7 +14,6 @@ async function addNote(title) {
 
     notes.push(note);
 
-    // await fs.writeFile(notesPath, JSON.stringify(notes));
     await saveNotes(notes);
     console.log(chalk.greenBright('Note was added!'));
 }
